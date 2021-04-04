@@ -1,0 +1,13 @@
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.AssemblyInfoInputs.cache
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.AssemblyInfo.cs
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.csproj.CoreCompileInputs.cache
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.exe
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.deps.json
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.runtimeconfig.json
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.runtimeconfig.dev.json
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.dll
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\bin\Debug\netcoreapp3.1\integracao.pdb
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.dll
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.pdb
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.genruntimeconfig.cache
+C:\Users\ValeAzul\Desktop\ws-vs2019\Integracao\integracao\integracao\obj\Debug\netcoreapp3.1\integracao.csprojAssemblyReference.cache
